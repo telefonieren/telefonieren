@@ -2,7 +2,7 @@
 
 
 
-<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg](https://simpleicons.org/icons/python.svg)" />
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 <!--
 **telefonieren/telefonieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
