@@ -2,7 +2,7 @@
 
 
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **telefonieren/telefonieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
